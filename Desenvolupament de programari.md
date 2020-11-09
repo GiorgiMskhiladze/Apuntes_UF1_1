@@ -1,3 +1,5 @@
+[LINK](http://jamj2000.github.io/entornosdesarrollo/1/diapositivas#/)
+
 ## Tipos de software
 * De sistema (sistemes operatius, drivers)
 * De aplicación (navegador, edició d'imatge, aplicaciones de ofimatica,etc)
