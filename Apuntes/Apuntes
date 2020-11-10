@@ -44,4 +44,10 @@ Las fases principales són:
 + **Documentación:** Se crea la documentación tanto técnica como la del usuario
 + **Mantenimiento:** Se generan los informes de errores y los controles de cambio.
 
+## Tipos de desarrollo de software
 
++ **Modelo clásico:** Este tipo de modelo, tiene dos tipo de modelos dentro, el **Modelo en cascada**, el cual és el modelo más viejo y el menos usado, ya que en este modelo no puedes avanzar al siguiente punto hasta no acabar el punto en el que estas. És también muy malo en cuanto a cambios, ya que si queremos modificar algo de un punto anterior tenemos que deshacer todo los puntos hasta ese. 
+También está el **Modelo en V**, en la que los brazos derechos e izquierdos de desarollo del programa se unen en las pruebas, pero eso no significa que no se pueda avanzar una fase sin acabar la otra. Se hace una parte de la V y simultaniamente se hace la otra parte, una vez acabada las 2 se junta al final y se hacen las pruebas.
+
++ **Modelo de construcción de prototipos:** 
++ **Modelos evolutivos o incrementales:**
