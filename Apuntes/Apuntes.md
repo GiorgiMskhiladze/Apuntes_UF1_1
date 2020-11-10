@@ -51,5 +51,15 @@ También está el **Modelo en V**, en la que en el brazo izquierdo se hace todo 
 
 ![image](http://jamj2000.github.io/entornosdesarrollo/1/assets/v.png)
 
-+ **Modelo de construcción de prototipos:** 
-+ **Modelos evolutivos o incrementales:**
++ **Modelo de construcción de prototipos:** és un modelo que se basa en crear prototipos durante la fase de análisis para usuarios que no saben que tiene que tener el programa, e ir probando junto al cliente las cosas que le gustan e ir mejorando las que no quiere o sacar-las del todo.  
+Hay diferentes tipos de prototipos, el **prototipo rápido**, que simplemente consiste en crear prototipos para que el cliente lo vea, con el lenguaje de codificación que sea, estos prototipos podrán ser desechadas en el programa final.  
+También está el **prototipo evolutivo**, que és el primer prototipo que se desarrolla y se irá mejorando, el producto final se basará en este prototipo.
+
++ **Modelos evolutivos o incrementales:** este modelo como el modelo clásico tiene dos variantes, el **modelo en espiral** y las **metodologias ágiles**.
+
+El **modelo en espiral**, se dedica a hacer una primera comunicación con el cliente para saber que es lo que quiere, luego planificar como harás el producto, ir analizando los riesgos del programa, hacer la ingenieria dle programa, construir o programar y por último una evaluación del cliente para saber que opina del producto, todo esto lo iremos repetiendo 4 veces para al final dar el producto final:
+
+![image](http://jamj2000.github.io/entornosdesarrollo/1/assets/espiral.png)
+
+  
+Las **metodologias ágiles**, són las más nuevas, que se basan en el desarrollo incremental del software. Ir haciendo cada parte del trabajo por partes pequeñas y con una fecha límite. Este tipo de trabajos suele ser con un equipo organizado para ir avanzando rápidamente la faena. Las metodologías más conocidas son: **Kanban**, **Scrum** y **XP (eXtreme Programming)**
