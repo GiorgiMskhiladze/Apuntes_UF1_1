@@ -49,7 +49,7 @@ Las fases principales són:
 + **Modelo clásico:** Este tipo de modelo, tiene dos tipo de modelos dentro, el **Modelo en cascada**, el cual és el modelo más viejo y el menos usado, ya que en este modelo no puedes avanzar al siguiente punto hasta no acabar el punto en el que estas. És también muy malo en cuanto a cambios, ya que si queremos modificar algo de un punto anterior tenemos que deshacer todo los puntos hasta ese. 
 También está el **Modelo en V**, en la que en el brazo izquierdo se hace todo el análisis, el diseño el desarrollo y por último la implantación de todo el programa, en canvio en el brazo derecho, se hacen todas las pruebas del programa que iran relacionadas con las partes del brazo izquierdo:
 
-![image](http://jamj2000.github.io/entornosdesarrollo/1/assets/v.png | width=100)
+![image](http://jamj2000.github.io/entornosdesarrollo/1/assets/v.png | width=100x100)
 
 + **Modelo de construcción de prototipos:** 
 + **Modelos evolutivos o incrementales:**
